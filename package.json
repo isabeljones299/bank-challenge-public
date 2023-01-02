@@ -1,0 +1,31 @@
+{
+  "name": "bankchallenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabeljones299/bank-challenge.git"
+  },
+  "author": "izzie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabeljones299/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/isabeljones299/bank-challenge#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "jasmine": "^4.4.0"
+  }
+}
